@@ -1,0 +1,8 @@
+1 Dalfry 180
+2 PavBhaji 150
+3 CholeBhature 150
+4 PrawnsCurry 250
+5 FishFry 250
+6 PaneerMasala 200
+7 Biryani 200
+8 GulabJamun 150

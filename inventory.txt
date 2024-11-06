@@ -1,0 +1,17 @@
+1 tomato 200
+2 butter 300
+3 onions 398
+4 oil 100.85
+5 lentils 99.55
+6 pav 84
+7 fish 96
+8 prawns 100
+9 spices 98.91
+10 rice 98
+11 garlic 43.5
+12 ginger 85.5
+13 veggies 94.7
+14 chilly 70
+15 flour 99.2
+16 milk 96
+17 sugar 98.4

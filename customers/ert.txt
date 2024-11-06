@@ -1,0 +1,5 @@
+Name : ert
+Phone No : 42
+2 PavBhaji 150
+4 PrawnsCurry 250
+Total Bill 400

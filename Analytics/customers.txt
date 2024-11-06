@@ -1,0 +1,5 @@
+Total Revenue: 6520
+Total Customers: 21
+Total Orders: 35
+Most Popular Dish: pavbhaji
+Least Popular Dish: biryani

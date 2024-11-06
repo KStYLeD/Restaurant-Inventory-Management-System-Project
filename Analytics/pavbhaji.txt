@@ -1,0 +1,2 @@
+Total Orders: 10
+Avg Orders: 0.47619
